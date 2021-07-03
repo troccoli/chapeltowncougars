@@ -23,6 +23,7 @@ php artisan storage:link
 # ...
 
 # Clear caches
+php artisan icons:clear --no-interaction
 php artisan event:clear --no-interaction
 php artisan optimize:clear --no-interaction
 
@@ -30,6 +31,7 @@ php artisan optimize:clear --no-interaction
 php artisan optimize --no-interaction
 php artisan view:cache --no-interaction
 php artisan event:cache --no-interaction
+php artisan icons:cache --no-interaction
 
 # Reload PHP to update opcache
 echo "" | sudo -S service php7.4-fpm reload

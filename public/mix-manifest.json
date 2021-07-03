@@ -1,4 +1,17 @@
 {
     "/js/app.js": "/js/app.js",
-    "/css/app.css": "/css/app.css"
+    "/css/app.css": "/css/app.css",
+    "/images/Apparel-Logo.png": "/images/Apparel-Logo.png",
+    "/images/Gradient-Texture.png": "/images/Gradient-Texture.png",
+    "/images/Key-Visual.png": "/images/Key-Visual.png",
+    "/images/Mascot-Logo.png": "/images/Mascot-Logo.png",
+    "/images/Primary-Logo.png": "/images/Primary-Logo.png",
+    "/images/Social-Banner.png": "/images/Social-Banner.png",
+    "/images/Social-Icon.png": "/images/Social-Icon.png",
+    "/images/Stacked-Logo.png": "/images/Stacked-Logo.png",
+    "/images/Stripe-Bottom-Frame.png": "/images/Stripe-Bottom-Frame.png",
+    "/images/Stripe-Frame.png": "/images/Stripe-Frame.png",
+    "/images/Stripe-Gradient.png": "/images/Stripe-Gradient.png",
+    "/images/Stripe-Top-Frame.png": "/images/Stripe-Top-Frame.png",
+    "/images/Stripe-Yellow.png": "/images/Stripe-Yellow.png"
 }

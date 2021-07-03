@@ -17,5 +17,6 @@
 <x-main-nav/>
 {{ $slot }}
 <x-footer/>
+<script src="{{ mix('js/app.js') }}" defer></script>
 </body>
 </html>
